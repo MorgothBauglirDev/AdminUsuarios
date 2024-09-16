@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiza\\OneDrive\\\u00C1rea de Trabalho\\challenge\\adm-usuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9680461E-D90A-4314-B09F-6F290F7AFAD5}|adm-usuarios.csproj|c:\\users\\luiza\\onedrive\\\u00E1rea de trabalho\\challenge\\adm-usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9680461E-D90A-4314-B09F-6F290F7AFAD5}|adm-usuarios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9680461E-D90A-4314-B09F-6F290F7AFAD5}|adm-usuarios.csproj|c:\\users\\luiza\\onedrive\\\u00E1rea de trabalho\\challenge\\adm-usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9680461E-D90A-4314-B09F-6F290F7AFAD5}|adm-usuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Service\\UsuarioOracleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Data\\UsuarioDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Models\\UsuarioOracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioOracleService.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Service\\UsuarioOracleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Service\\UsuarioOracleService.cs",
+              "ToolTip": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Service\\UsuarioOracleService.cs",
+              "RelativeToolTip": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Service\\UsuarioOracleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:12:00.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luiza\\OneDrive\\\u00C1rea de Trabalho\\challenge\\adm-usuarios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luiza\\OneDrive\\\u00C1rea de Trabalho\\challenge\\adm-usuarios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T14:08:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\OneDrive\\\u00C1rea de Trabalho\\challenge\\adm-usuarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luiza\\OneDrive\\\u00C1rea de Trabalho\\challenge\\adm-usuarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:57:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Data\\UsuarioDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Data\\UsuarioDbContext.cs",
+              "ToolTip": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Data\\UsuarioDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Data\\UsuarioDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:54:15.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioOracle.cs",
+              "DocumentMoniker": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Models\\UsuarioOracle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Models\\UsuarioOracle.cs",
+              "ToolTip": "C:\\Users\\luiza\\OneDrive\\Lu\\teste\\AdmUsuarios.Models\\UsuarioOracle.cs",
+              "RelativeToolTip": "..\\..\\..\\Lu\\teste\\AdmUsuarios.Models\\UsuarioOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:43:47.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

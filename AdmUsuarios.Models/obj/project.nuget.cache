@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPG2oB4I9+s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiza\\OneDrive\\Área de Trabalho\\challenge\\AdmUsuarios.Models\\AdmUsuarios.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiza\\.nuget\\packages\\mongodb.bson\\2.28.0\\mongodb.bson.2.28.0.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\luiza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
