@@ -14,7 +14,7 @@ namespace adm_usuarios.Controllers
         {
             _cidadeService = cidadeService;
         }
-        /// teste
+        /// test
         /// <summary>
         /// Retorna todos as cidades.
         /// </summary>
